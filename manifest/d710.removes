@@ -8,6 +8,10 @@
         "path":     "external/e2fsprogs"
     },
     {
+        "name":     "ParanoidAndroid/android_external_busybox",
+        "path":     "external/busybox"
+    },
+    {
         "name":     "platform/bootable/recovery",
         "path":     "bootable/recovery"
     }
