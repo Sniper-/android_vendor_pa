@@ -12,6 +12,10 @@
         "path":     "external/busybox"
     },
     {
+        "name":     "platform/external/yaffs2",
+        "path":     "external/yaffs2"
+    },
+    {
         "name":     "platform/bootable/recovery",
         "path":     "bootable/recovery"
     }
