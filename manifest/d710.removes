@@ -16,6 +16,10 @@
         "path":     "external/yaffs2"
     },
     {
+        "name":     "platform/external/zlib",
+        "path":     "external/zlib"
+    },
+    {
         "name":     "platform/bootable/recovery",
         "path":     "bootable/recovery"
     }
