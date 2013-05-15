@@ -6,5 +6,9 @@
     {
         "name":     "platform/external/e2fsprogs",
         "path":     "external/e2fsprogs"
+    },
+    {
+        "name":     "platform/bootable/recovery",
+        "path":     "bootable/recovery"
     }
 ]
